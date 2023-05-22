@@ -5,13 +5,13 @@ const Contact = () => {
     <div className="container my-24 px-6 mx-auto">
     <section className="mb-32 text-gray-800">
       <div className="flex justify-center">
-        <div className="text-center lg:max-w-3xl md:max-w-xl">
+        <div className="text-center  xsm:max-w-3xl md:max-w-xl">
           <h2 className="text-5xl font-semibold mb-12 px-6" id="contact">Contact us</h2>
         </div>
       </div>
 
       <div className="flex flex-wrap">
-        <div className="grow-0 shrink-0 basis-auto mb-12 lg:mb-0 w-full lg:w-5/12 px-3 lg:px-6">
+        <div className="grow-0 shrink-0 basis-auto mb-12  xsm:mb-0 w-full  xsm:w-5/12 px-3  xsm:px-6">
           <form>
             <div className="form-group mb-6">
               <input
@@ -105,9 +105,9 @@ const Contact = () => {
             </button>
           </form>
         </div>
-        <div className="grow-0 shrink-0 basis-auto w-full lg:w-7/12">
+        <div className="grow-0 shrink-0 basis-auto w-full  xsm:w-7/12">
           <div className="flex flex-wrap">
-            <div className="mb-12 grow-0 shrink-0 basis-auto w-full lg:w-6/12 px-3 lg:px-6">
+            <div className="mb-12 grow-0 shrink-0 basis-auto w-full  xsm:w-6/12 px-3  xsm:px-6">
               <div className="flex items-start">
                 <div className="shrink-0">
                   <div className="p-4 bg-indigo-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -137,7 +137,7 @@ const Contact = () => {
                 </div>
               </div>
             </div>
-            <div className="mb-12 grow-0 shrink-0 basis-auto w-full lg:w-6/12 px-3 lg:px-6">
+            <div className="mb-12 grow-0 shrink-0 basis-auto w-full  xsm:w-6/12 px-3  xsm:px-6">
               <div className="flex items-start">
                 <div className="shrink-0">
                   <div className="p-4 bg-indigo-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -167,7 +167,7 @@ const Contact = () => {
                 </div>
               </div>
             </div>
-            <div className="mb-12 grow-0 shrink-0 basis-auto w-full lg:w-6/12 px-3 lg:px-6">
+            <div className="mb-12 grow-0 shrink-0 basis-auto w-full  xsm:w-6/12 px-3  xsm:px-6">
               <div className="flex align-start">
                 <div className="shrink-0">
                   <div className="p-4 bg-indigo-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">
@@ -197,7 +197,7 @@ const Contact = () => {
                 </div>
               </div>
             </div>
-            <div className="mb-12 grow-0 shrink-0 basis-auto w-full lg:w-6/12 px-3 lg:px-6">
+            <div className="mb-12 grow-0 shrink-0 basis-auto w-full  xsm:w-6/12 px-3  xsm:px-6">
               <div className="flex align-start">
                 <div className="shrink-0">
                   <div className="p-4 bg-indigo-600 rounded-md shadow-md w-14 h-14 flex items-center justify-center">

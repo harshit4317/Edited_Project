@@ -21,7 +21,7 @@ const RecentOrders = () => {
               <p className='text-gray-800 font-bold'>{order.title}</p>
               <p className='text-gray-600 text-sm'>{order.author}</p>
             </div>
-            <p className='lg:flex xsm:hidden  lg:absolute right-6 text-gray-600 text-sm'>{order.date}</p> 
+            <p className='lg:flex min-[200px]:hidden  lg:absolute right-6 text-gray-600 text-sm'>{order.date}</p> 
             {/* xsm for small screen of 200px min-width  */}
           </li>
         ))}

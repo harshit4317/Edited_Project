@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       screens: {
-        'xsm': '200px'
+        // 'xsm': '200px'
       },
       fontFamily: {
         satoshi: ['Satoshi', 'sans-serif'],
