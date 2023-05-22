@@ -27,4 +27,4 @@ const Dashboard = () => {
 }
 
 export default Dashboard;
-// export const getServerSideProps=withPageAuthRequired();
+export const getServerSideProps=withPageAuthRequired();
